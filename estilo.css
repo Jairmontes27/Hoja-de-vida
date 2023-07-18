@@ -1,0 +1,62 @@
+.titulo_principal{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-block-end: -6mm;
+    letter-spacing: 1mm;   
+}
+
+.Foto{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.Informacion_perso{
+    background-color: rgb(255, 255, 255);
+    margin-top: -1cm;
+    text-align: center;
+    letter-spacing: 1mm;
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgba(136, 20, 20, 0.882);
+    margin-inline-start: 5cm;
+    margin-inline-end: 5cm;
+    margin-top: 3cm;
+    margin-block: 3cm;
+    
+}
+
+.infopersonal_1{
+    background-color: rgb(255, 255, 255);
+    margin-block: -1cm;
+    font-size: 5mm;
+}
+
+ .Perfil_profesional{
+    letter-spacing: 1mm;
+    background-color: rgb(255, 255, 255);
+    text-decoration: underline;
+    text-align: center;
+    margin-block: -7mm;
+ }
+
+.Parrafo{
+    background-color: rgb(255, 255, 255);
+    text-align: center; 
+    font-size: 4mm;
+}
+
+.Formacion{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 1mm;
+    text-decoration:underline;
+    margin-block: -7mm;
+}
+
+.Formacion_info{
+    background-color: rgb(255, 255, 255);
+    font-size: 5mm;
+}
